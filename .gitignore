@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.sample
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.backup.ipynb
+last_protocol_audio.wav
+latest_silero_models.yml
+.venv/
+venv/
