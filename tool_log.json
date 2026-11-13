@@ -1,0 +1,281 @@
+[
+  {
+    "agent": "Вера",
+    "query": "критическая нестабильность энергосистемы возможные причины и способы устранения",
+    "files": [
+      "energy_report.txt",
+      "emergency_protocol.txt",
+      "district_report.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "текущие резервные мощности энергосистемы, состояние мобильных генераторов, расчёт рисков перераспределения нагрузки при нестабильности",
+    "files": [
+      "emergency_protocol.txt",
+      "energy_report.txt",
+      "reserve_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "текущие резервные мощности энергосистемы, состояние мобильных генераторов, влияние отключения района на стабильность системы",
+    "files": [
+      "emergency_protocol.txt",
+      "district_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние резервных мощностей и мобильных генераторов, ограничения аварийного протокола, влияние отключения района на медицинскую инфраструктуру",
+    "files": [
+      "emergency_protocol.txt",
+      "district_report.txt",
+      "reserve_report.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "текущее состояние медицинской инфраструктуры и её энергопотребления, возможности аварийных генераторов больницы, доступные резервные мощности и их состояние",
+    "files": [
+      "emergency_protocol.txt",
+      "district_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "возможности временного подключения резервного центра питания, доступные резервы мощности, состояние трансформаторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние трансформаторов и возможности временного подключения резервного центра питания",
+    "files": [
+      "emergency_protocol.txt",
+      "energy_report.txt",
+      "reserve_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние мобильных генераторов и объём доступных резервных мощностей",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние резервных трансформаторов и возможности подключения резервного центра питания",
+    "files": [
+      "emergency_protocol.txt",
+      "energy_report.txt",
+      "reserve_report.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "состояние ключевых узлов энергосистемы, доступные резервные мощности, возможности подключения резервного центра питания и мобильных генераторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "состояние трансформатора Т-17, возможность временного ремонта или замены",
+    "files": [
+      "energy_report.txt",
+      "district_report.txt",
+      "emergency_protocol.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние трансформатора Т-17, возможность временного ремонта или замены",
+    "files": [
+      "energy_report.txt",
+      "district_report.txt",
+      "emergency_protocol.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние трансформатора Т-17, возможность его временного ремонта или замены",
+    "files": [
+      "energy_report.txt",
+      "district_report.txt",
+      "emergency_protocol.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "состояние трансформатора Т-17 и возможность его временного ремонта или замены",
+    "files": [
+      "energy_report.txt",
+      "district_report.txt",
+      "emergency_protocol.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "состояние трансформатора Т-17, возможность его временного ремонта или замены, доступные резервные мощности и ресурсы для подключения мобильных генераторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние трансформатора Т-17, возможность его временного ремонта или замены, доступные резервные мощности и ресурсы для подключения мобильных генераторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние трансформатора Т-17, возможность его временного ремонта или замены, доступные резервные мощности и время, необходимое для подключения мобильных генераторов и резервного центра",
+    "files": [
+      "reserve_report.txt",
+      "emergency_protocol.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "состояние трансформатора Т-17, возможность его временного ремонта или замены, доступные резервные мощности и ресурсы для подключения мобильных генераторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "состояние трансформатора Т-17, возможности его временного ремонта или замены, доступные резервные мощности и время, необходимое для подключения мобильных генераторов и перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние трансформатора Т-17, возможности его временного ремонта или замены, доступные резервные мощности и ресурсы для подключения мобильных генераторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние трансформатора Т-17, возможности его временного ремонта или замены, доступные ресурсы для подключения мобильных генераторов и резервного центра",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "district_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние и доступные ресурсы мобильных генераторов и резервного центра, время необходимое для их подключения и перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "состояние и возможности резервной подстанции, доступные резервные мощности, состояние трансформатора Т-17",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "состояние резервных мощностей и мобильных генераторов, возможность перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние резервных мощностей и мобильных генераторов, возможность перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "состояние резервных мощностей и мобильных генераторов, возможность перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "состояние резервных мощностей и мобильных генераторов, возможность перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ада",
+    "query": "состояние резервных мощностей и мобильных генераторов, доступные резервы энергии, возможности перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Вера",
+    "query": "состояние резервных мощностей и мобильных генераторов, возможность перераспределения нагрузки",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Ника",
+    "query": "резервные мощности и состояние оборудования для перераспределения нагрузки и подключения мобильных генераторов",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  },
+  {
+    "agent": "Марк",
+    "query": "резервные мощности мобильных генераторов, возможность перераспределения нагрузки, состояние оборудования резервной подстанции",
+    "files": [
+      "emergency_protocol.txt",
+      "reserve_report.txt",
+      "energy_report.txt"
+    ]
+  }
+]
